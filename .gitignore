@@ -1,0 +1,7 @@
+# Mac OS-specific storage files
+.DS_Store
+# VS Code
+.vscode/
+
+# exclude data from source control by default
+/data/
